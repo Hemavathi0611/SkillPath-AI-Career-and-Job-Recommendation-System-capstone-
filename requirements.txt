@@ -152,3 +152,11 @@ wheel==0.48.0
 widgetsnbextension==4.0.16
 wrapt==2.4.1
 xgboost==3.4.1
+
+streamlit
+pandas
+numpy
+scikit-learn
+matplotlib
+plotly
+openpyxl
