@@ -1,0 +1,94 @@
+SKILLPATH AI
+PROJECT DATA AND TESTING SUMMARY
+================================
+
+1. DATASETS
+
+Career dataset:
+- Cleaned records: 4999
+- Columns: 6
+- Missing values: 0
+- Duplicate rows: 0
+
+Job dataset:
+- Records: 10000
+- Columns: 9
+- Missing values: 0
+- Duplicate rows: 0
+
+2. CAREER ANALYSIS
+
+Career counts:
+Recommended Career
+Clerk                  432
+Marketing Executive    432
+ML Engineer            428
+Research Scientist     419
+Software Engineer      417
+School Counselor       417
+Sales Assistant        413
+Financial Analyst      413
+Data Entry Operator    413
+Junior Accountant      413
+Professor              407
+Business Analyst       395
+
+Education-level counts:
+Education Level
+Master's        1027
+Bachelor's      1021
+Matric          1014
+Intermediate     973
+PhD              964
+
+3. JOB ANALYSIS
+
+Industry counts:
+industry
+Quantum Computing    2519
+Blockchain           2499
+AI                   2492
+Green Tech           2490
+
+Location counts:
+location
+New York     1689
+Singapore    1682
+Tokyo        1673
+Dubai        1660
+London       1656
+Berlin       1640
+
+Salary summary (USD):
+count     10000.00
+mean     150131.52
+std       57534.95
+min       50013.00
+25%      100568.00
+50%      150398.50
+75%      199225.25
+max      249990.00
+
+4. AUTOMATED TEST RESULTS
+
+Recommendation tests: 14 passed, 0 failed.
+Job-filter tests: 4 passed, 0 failed.
+Total: 18 passed, 0 failed.
+
+5. INTERPRETATION AND LIMITATIONS
+
+The recommendation system uses skill overlap and predefined career skill mappings.
+Match percentages represent the proportion of listed required skills matched.
+They are not prediction accuracy or proof of real-world job suitability.
+
+The tests validate selected functional behaviors and filters.
+They do not establish recommendation precision, recall, or real-world effectiveness.
+The datasets' representativeness of the actual job market has not been established.
+
+6. GENERATED EDA CHARTS
+
+outputs/reports/eda/top_careers.png
+outputs/reports/eda/education_distribution.png
+outputs/reports/eda/top_industries.png
+outputs/reports/eda/top_locations.png
+outputs/reports/eda/salary_distribution.png
