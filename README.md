@@ -55,38 +55,54 @@ The project includes:
 
 ## ▶️ How to Run
 
-Clone the repository:
+### 1. Clone the repository
 
 ```bash
 git clone https://github.com/Hemavathi0611/SkillPath-AI-Career-and-Job-Recommendation-System-capstone-.git
 ```
 
-Navigate to the project folder:
+### 2. Navigate to the project folder
 
 ```bash
 cd SkillPath-AI-Career-and-Job-Recommendation-System-capstone-
 ```
 
-Create and activate a virtual environment (optional but recommended):
+### 3. Create a virtual environment (recommended)
 
 ```bash
 python -m venv venv
 ```
 
-Install the dependencies:
+### 4. Activate the virtual environment
+
+**Windows PowerShell:**
+
+```powershell
+.\venv\Scripts\Activate.ps1
+```
+
+### 5. Install dependencies
 
 ```bash
 pip install -r requirements.txt
 ```
 
-Run the Streamlit application:
+### 6. Run the Streamlit application
 
 ```bash
 python -m streamlit run app/app.py
 ```
 
-## 🚀 Live Demo
+## 🌐 Live Demo
 
-(https://skillpath-ai-capstone.streamlit.app/)
+[Launch SkillPath AI](https://skillpath-ai-capstone.streamlit.app/)
+
+## 👩‍💻 Author
+
+**Hemavathi N**
+
+GitHub: [Hemavathi0611](https://github.com/Hemavathi0611)
+
+---
 
 **SkillPath AI — AI-Powered Career and Job Recommendation System**
