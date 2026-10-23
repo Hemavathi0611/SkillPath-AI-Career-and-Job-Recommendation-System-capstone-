@@ -87,6 +87,6 @@ python -m streamlit run app/app.py
 
 ## 🚀 Live Demo
 
-The application can be deployed using Streamlit Community Cloud to provide a shareable website link.
+(https://skillpath-ai-capstone.streamlit.app/)
 
 **SkillPath AI — AI-Powered Career and Job Recommendation System**
