@@ -95,13 +95,7 @@ python -m streamlit run app/app.py
 
 ## 🌐 Live Demo
 
-[Launch SkillPath AI](https://skillpath-ai-capstone.streamlit.app/)
-
-## 👩‍💻 Author
-
-**Hemavathi N**
-
-GitHub: [Hemavathi0611](https://github.com/Hemavathi0611)
+Launch SkillPath AI(https://skillpath-ai-capstone.streamlit.app/)
 
 ---
 
